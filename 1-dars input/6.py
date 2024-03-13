@@ -1,0 +1,5 @@
+a = int(input("1-sonni kiriting:"))
+b = int(input("2-sonni kiriting:"))
+c = int(input("3-sonni kiriting:"))
+print("Parallelopiped hajmi =",a*b*c)
+print("Parallelopiped sirtining yuzi =",2*(a*b+b*c+a*c))
